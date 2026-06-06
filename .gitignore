@@ -1,0 +1,21 @@
+# Prerequisites
+*.d
+
+# Compiled Object files
+*.lst
+*.obj
+*.o
+
+# Precompiled Headers
+*.gch
+*.pch
+
+# Executables
+*.exe
+*.out
+*.app
+nexus_node
+
+# IDE Configuration folders
+.vscode/
+.idea/
